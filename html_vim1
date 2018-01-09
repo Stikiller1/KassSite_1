@@ -1,7 +1,7 @@
 
 
       <!DOCTYPE hmtl>
-      img(/) = http://cdn1-www.dogtime.com/assets/uploads/2011/03/puppy-development-300x200.jpg;
+      
       
       <html>
       
@@ -24,7 +24,7 @@
 		      <ol>Kass is pretty because she has great hair</ol>
 		      <ol>kass is pretty because she has great eyes</ol>
 		      
-		      <a href= "/" >
+		      <a href= img http://cdn1-www.dogtime.com/assets/uploads/2011/03/puppy-development-300x200.jpg /a>
 	      </body>
       </html>
 
