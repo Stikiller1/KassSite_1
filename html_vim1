@@ -34,8 +34,9 @@
       
       //search bar-->      <input id="q" aria-hidden="true" autocomplete="off" name="q" tabindex="-1" type="url" jsaction="mousedown:ntp.fkbxclk" style="opacity: 0;">
 	      <head>
-		      <title>Kass Is Pretty</title>
-		      <h1>Why is Kass so pretty?</h1>
+		      <title>Dogs are awesome!</title>
+		      
+		      <h1>Why are dogs so cool?</h1>
 		      
 		    {
 		      color:#???????;
@@ -47,9 +48,9 @@
 		     
 	      </head>
 	      <body>
-		      <li>Kass is pretty because she has great features-</li>
-		      <ol>Kass is pretty because she has great hair</ol>
-		      <ol>kass is pretty because she has great eyes</ol>
+		      <li>Dogs are cool-</li>
+		      <ol>Dogs are cool because they are friendly</ol>
+		      <ol>Dogs are cool because they bark</ol>
 		      
 		      <a href= ?????????????? /a>
 		      
