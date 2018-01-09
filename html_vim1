@@ -6,8 +6,10 @@
       //example link: https://asp-net-example.blogspot.com/2008/12/aspnet-while-loop-example-while-dowhile.html
       
       <script runat="server">
-    protected void Page_Load(object sender, System.EventArgs e) {
-        int i = 0;
+      
+    -------->  protected void Page_Load(object sender, System.EventArgs e)  <-------   {    
+        
+	int i = 0;
         while (i < 11) {
             i+=1;
             Label1.Text += i + ", ";
