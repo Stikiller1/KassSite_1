@@ -7,10 +7,14 @@
 	      <head>
 		      <title>Kass Is Pretty</title>
 		      <h1>Why is Kass so pretty?</h1>
+		
 		     
 	      </head>
 	      <body>
-		      Kass is pretty because she has great features.
+		      <li>Kass is pretty because she has great features-</li>
+		      <ul>Kass is pretty because she has great hair</ul>
+		      <ul>kass is pretty because she has great eyes</ul>
+		      
 		      <a href= "/" >
 	      </body>
       </html>
