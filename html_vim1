@@ -1,6 +1,27 @@
 
-
+//"C#"
       <!DOCTYPE hmtl>
+      
+      //while loop in script tag
+      
+      <script runat="server">
+    protected void Page_Load(object sender, System.EventArgs e) {
+        int i = 0;
+        while (i < 11) {
+            i+=1;
+            Label1.Text += i + ", ";
+        }
+
+       string[] Colors = { "DarkKhaki", "DarkOrchid", "DarkSalmon", "Pink" };
+       int ii =0;
+       do
+       {
+           Label2.Text += Colors[ii] + " ";
+           ii++;
+       }
+       while (ii < Colors.Length);
+    }
+</script>
       
       
       <html>
