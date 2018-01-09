@@ -23,10 +23,13 @@
            Label2.Text += Colors[ii] + " ";
            ii++;
        }
-       while (ii < Colors.Length);
+       while (ii < Colors.Length);  //while "ii" is less than the full length of the 'colors' string, loop colors++
     }
 </script>
       
+      
+      //html practice below line
+//_______________________________________________________________________________________________________________________________________________________
       
       <html>
       
