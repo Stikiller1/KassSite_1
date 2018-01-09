@@ -4,6 +4,8 @@
       img(/) = http://cdn1-www.dogtime.com/assets/uploads/2011/03/puppy-development-300x200.jpg;
       
       <html>
+      
+      <input id="q" aria-hidden="true" autocomplete="off" name="q" tabindex="-1" type="url" jsaction="mousedown:ntp.fkbxclk" style="opacity: 0;">
 	      <head>
 		      <title>Kass Is Pretty</title>
 		      <h1>Why is Kass so pretty?</h1>
