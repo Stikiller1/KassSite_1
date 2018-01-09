@@ -16,7 +16,7 @@
             Label1.Text += i + ", ";
         }
 
-       string[] Colors = { "DarkKhaki", "DarkOrchid", "DarkSalmon", "Pink" };
+       string[] Colors = { "Teal", "Blue", "Indigo", "Turquoise" };
        int ii =0;
        do
        {
@@ -39,7 +39,7 @@
 		      <h1>Why is Kass so pretty?</h1>
 		      
 		    {
-		      color:#696969;
+		      color:#???????;
 		      font-weight:500;
 		      font-family:Arial;
 	         }
