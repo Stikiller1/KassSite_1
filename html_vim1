@@ -3,6 +3,7 @@
       <!DOCTYPE hmtl>
       
       //while loop in script tag
+      //example link: https://asp-net-example.blogspot.com/2008/12/aspnet-while-loop-example-while-dowhile.html
       
       <script runat="server">
     protected void Page_Load(object sender, System.EventArgs e) {
