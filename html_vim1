@@ -67,8 +67,24 @@
       //________________________________________________________________________________________________________________________
 
       
+ //web interaction in C#
+ 
+ 
+using Test.Tool.Browser;
+using Test.Tool;
 
-     ******************************************************
+class SearchEngine
+{
+    static void Main(string[] args)
+    {
+       ToolVersion driver = new BrowserDriver();
+       driver.Navigate().GoToUrl("*********/");
+       ToolVersionElement query = driver.FindElement(By.Name("q"));
+       query.SendKeys("*****");
+       System.Console.WriteLine("Page title is: " + driver.Title);
+       driver.Quit();
+    }
+}
 
 
 
